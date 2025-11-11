@@ -1046,7 +1046,7 @@
     - Go Playground pré-pronto: https://play.golang.org/p/VLbo_1uE-U
     https://play.golang.org/p/zGKr7cvTPF
     - Go Playground ao vivo: 
-    https://play.golang.org/p/njiKbTT20Cr
+    https://goplay.tools/snippet/vWP65kS--ml
 - Onde se utiliza?
     - Área de formas geométricas (gobyexample.com)
     - Sort
